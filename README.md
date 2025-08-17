@@ -1,7 +1,3 @@
-Here’s a professional **README.md** for your **5G Network Slicing Classification** project:
-
----
-
 # 5G Network Slicing Classification
 
 This project implements a machine learning pipeline to classify **5G network slices** into three categories:
@@ -85,10 +81,3 @@ python evaluate.py
 
 ---
 
-##  License
-
-This project is licensed under the **MIT License**.
-
----
-
-Do you want me to also make a **short “Project Showcase” README** (with just overview, dataset, results, and screenshots) for GitHub, or keep it as this detailed version?
